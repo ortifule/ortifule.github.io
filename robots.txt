@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ortifule.github.io/sitemap.html.gz
+Sitemap: https://ortifule.github.io/app/sitemap.html.gz
+Sitemap: https://ortifule.github.io/assets/sitemap.html.gz
+Sitemap: https://ortifule.github.io/css/sitemap.html.gz
+Sitemap: https://ortifule.github.io/includes/sitemap.html.gz
+Sitemap: https://ortifule.github.io/item/sitemap.html.gz
+Sitemap: https://ortifule.github.io/src/sitemap.html.gz
